@@ -7,4 +7,4 @@
 
 - La carpeta Ejercicios_tema_9 contiene los ejercicios del tema 9,  Herencia, Polimorfismo e Interfaces
 
-- La carpeta Python/Ejercicio_1 contiene el ejercicio del tema 1, Introduccion a python
+- La carpeta Python/ contiene los ejercicios, Introduccion a python
